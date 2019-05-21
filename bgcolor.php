@@ -39,5 +39,11 @@ date_default_timezone_set('America/Chicago');
         </style>
         ";
     }
-
+    echo"
+    <style>
+    body{
+        background color: #0000ff
+    }
+    </style>
+    ";
  ?>
